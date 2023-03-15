@@ -1,0 +1,11 @@
+
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¹¿¶ûùÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(“åÏûûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ú‘–×
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ş»Ş8ÓåÇæË0
+R
+java:S1128"5Remove this unused import 'com.spire.xls.core.IFont'.(±¬·ò8…˜éåË0
+Z
+java:S1128"=Remove this unused import 'net.sourceforge.tess4j.Tesseract'.(ÒÚÃë8…˜éåË0

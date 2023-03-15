@@ -1,0 +1,17 @@
+
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ğè¯Ÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‹ÿå÷şÿÿÿÿ
+\
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(‡¡•÷ÿÿÿÿÿ
+O
+java:S1135>"2Complete the task associated to this TODO comment.(êÚ¢ë8›ôíÊ0
+b
+java:S3252A"GUse static access with "com.alibaba.excel.EasyExcelFactory" for "read".(™ª÷¯ÿÿÿÿÿ
+Q	java:S899W"=Do something with the "boolean" value returned by "renameTo".(ÅÈ÷T
+;
+java:S1075W"&Remove this hard-coded path-delimiter.(ÅÈ÷T
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(Éü£ßşÿÿÿÿ
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(‡šúƒ8µˆíìÊ0
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÓÁÕ„øÿÿÿÿ
